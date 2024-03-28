@@ -17,7 +17,6 @@ I'm passionate to work on MERN Stack.
 
 
 ## ⚙️ Tools & Technologies I Want to Learn
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Microservices](https://img.shields.io/badge/microservices-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
